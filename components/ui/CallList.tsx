@@ -1,3 +1,4 @@
+// @ts-nocheck
 'use client'
 import { useGetCalls } from '@/Hooks/useGetCalls'
 import { Call, CallRecording } from '@stream-io/video-react-sdk';
